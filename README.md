@@ -1,2 +1,0 @@
-# WBSFilmCatalogue
-Created with CodeSandbox
